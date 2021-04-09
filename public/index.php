@@ -19,6 +19,6 @@ $message = new SayHello();
         <title>Document</title>
     </head>
     <body>
-        <?= $message-> world();?>
+        <?= $message->world();?>
     </body>
     </html>
